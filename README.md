@@ -16,5 +16,11 @@ Maximo Mobile est une application mobile qui permet de transporter n’importe q
 # Dashboard
 
 <p align="center">
-  <img src="https://github.com/lamkadmi/maximo-mobile-demo/blob/main/screenshots/Capture%20d%E2%80%99%C3%A9cran%202022-03-28%20%C3%A0%2019.53.54.png" width="300">
+  <img src="https://github.com/lamkadmi/maximo-mobile-demo/blob/main/screenshots/Capture%20d%E2%80%99%C3%A9cran%202022-03-28%20%C3%A0%2019.54.24.png" width="300">
+</p>
+
+# Menu burger
+
+<p align="center">
+  <img src="https://github.com/lamkadmi/maximo-mobile-demo/blob/main/screenshots/Capture%20d%E2%80%99%C3%A9cran%202022-03-28%20%C3%A0%2019.54.45.png" width="300">
 </p>
