@@ -4,5 +4,5 @@ Maximo Mobile est une application mobile qui permet de transporter n’importe q
 
 
 <p align="center">
-  <img src="https://github.com/lamkadmi/maximo-mobile-demo/blob/main/screenshots/Capture d’écran 2022-03-28 à 19.52.04.jpg" width="250">
+  <img src="https://github.com/lamkadmi/maximo-mobile-demo/blob/main/screenshots/Capture%20d%E2%80%99%C3%A9cran%202022-03-28%20%C3%A0%2019.52.04.png" width="250">
 </p>
