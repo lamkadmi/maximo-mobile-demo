@@ -14,7 +14,7 @@ Smart Mobile pour Maximo permet à votre mobile de :
 # Ecran de connexion 
 
 <p align="center">
-   <img src="https://github.com/lamkadmi/maximo-mobile-demo/blob/main/screenshots/Capture%20d%E2%80%99e%CC%81cran%202022-04-23%20a%CC%80%2019.56.24.png" width="300"/>
+   <img src="https://github.com/lamkadmi/maximo-mobile-demo/blob/main/screenshots/Capture%20d’écran%202022-04-23%20à%2020.07.35.png" width="300"/>
 </p>
 
 # Dashboard
